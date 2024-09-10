@@ -804,7 +804,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed0fa0fc0e55c5349bfa5507767a3df3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSpeed: 100
+  rotationSpeed: 1
 --- !u!65 &820032336
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1265,7 +1265,7 @@ GameObject:
   - component: {fileID: 1158382856}
   m_Layer: 0
   m_Name: DeathPlane
-  m_TagString: Untagged
+  m_TagString: DeathPlane
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
